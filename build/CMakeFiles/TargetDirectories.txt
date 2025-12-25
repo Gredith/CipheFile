@@ -1,0 +1,3 @@
+C:/Users/fenix/Desktop/CipheFile/build/CMakeFiles/programa.dir
+C:/Users/fenix/Desktop/CipheFile/build/CMakeFiles/edit_cache.dir
+C:/Users/fenix/Desktop/CipheFile/build/CMakeFiles/rebuild_cache.dir
