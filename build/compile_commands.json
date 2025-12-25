@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/fenix/Desktop/CipheFile/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/programa.dir/includes_CXX.rsp -g -std=gnu++1z -o CMakeFiles\\programa.dir\\src\\main.cpp.obj -c C:\\Users\\fenix\\Desktop\\CipheFile\\src\\main.cpp",
+  "file": "C:/Users/fenix/Desktop/CipheFile/src/main.cpp",
+  "output": "CMakeFiles/programa.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/fenix/Desktop/CipheFile/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/programa.dir/includes_CXX.rsp -g -std=gnu++1z -o CMakeFiles\\programa.dir\\src\\core\\FileManager.cpp.obj -c C:\\Users\\fenix\\Desktop\\CipheFile\\src\\core\\FileManager.cpp",
+  "file": "C:/Users/fenix/Desktop/CipheFile/src/core/FileManager.cpp",
+  "output": "CMakeFiles/programa.dir/src/core/FileManager.cpp.obj"
+}
+]
