@@ -81,10 +81,7 @@ Funciones planificadas:
 * Mejor manejo de errores
 ---
 
-## 📄 Licencia
-Este proyecto se distribuye bajo la licencia MIT.
 ---
-
 ## 🇬🇧 English
 
 # CipheFile
