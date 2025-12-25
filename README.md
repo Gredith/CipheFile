@@ -163,7 +163,3 @@ Planned features:
 * Automated tests
 * Enhanced error handling
 ---
-
-## 📄 License
-This project is licensed under the MIT License.
----
