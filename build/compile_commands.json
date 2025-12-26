@@ -1,14 +1,32 @@
 [
 {
   "directory": "C:/Users/fenix/Desktop/CipheFile/build",
-  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/programa.dir/includes_CXX.rsp -g -std=gnu++1z -o CMakeFiles\\programa.dir\\src\\main.cpp.obj -c C:\\Users\\fenix\\Desktop\\CipheFile\\src\\main.cpp",
+  "command": "C:\\PROGRA~2\\MIB055~1\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\Users\\fenix\\Desktop\\CipheFile\\src -external:IC:\\Users\\fenix\\vcpkg\\installed\\x64-windows\\include -external:W0 /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /FoCMakeFiles\\CipheFile.dir\\src\\main.cpp.obj /FdCMakeFiles\\CipheFile.dir\\ /FS -c C:\\Users\\fenix\\Desktop\\CipheFile\\src\\main.cpp",
   "file": "C:/Users/fenix/Desktop/CipheFile/src/main.cpp",
-  "output": "CMakeFiles/programa.dir/src/main.cpp.obj"
+  "output": "C:/Users/fenix/Desktop/CipheFile/build/CMakeFiles/CipheFile.dir/src/main.cpp.obj"
 },
 {
   "directory": "C:/Users/fenix/Desktop/CipheFile/build",
-  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/programa.dir/includes_CXX.rsp -g -std=gnu++1z -o CMakeFiles\\programa.dir\\src\\core\\FileManager.cpp.obj -c C:\\Users\\fenix\\Desktop\\CipheFile\\src\\core\\FileManager.cpp",
+  "command": "C:\\PROGRA~2\\MIB055~1\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\Users\\fenix\\Desktop\\CipheFile\\src -external:IC:\\Users\\fenix\\vcpkg\\installed\\x64-windows\\include -external:W0 /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /FoCMakeFiles\\CipheFile.dir\\src\\core\\FileManager.cpp.obj /FdCMakeFiles\\CipheFile.dir\\ /FS -c C:\\Users\\fenix\\Desktop\\CipheFile\\src\\core\\FileManager.cpp",
   "file": "C:/Users/fenix/Desktop/CipheFile/src/core/FileManager.cpp",
-  "output": "CMakeFiles/programa.dir/src/core/FileManager.cpp.obj"
+  "output": "C:/Users/fenix/Desktop/CipheFile/build/CMakeFiles/CipheFile.dir/src/core/FileManager.cpp.obj"
+},
+{
+  "directory": "C:/Users/fenix/Desktop/CipheFile/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\Users\\fenix\\Desktop\\CipheFile\\src -external:IC:\\Users\\fenix\\vcpkg\\installed\\x64-windows\\include -external:W0 /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /FoCMakeFiles\\CipheFile.dir\\src\\crypto\\CryptoContext.cpp.obj /FdCMakeFiles\\CipheFile.dir\\ /FS -c C:\\Users\\fenix\\Desktop\\CipheFile\\src\\crypto\\CryptoContext.cpp",
+  "file": "C:/Users/fenix/Desktop/CipheFile/src/crypto/CryptoContext.cpp",
+  "output": "C:/Users/fenix/Desktop/CipheFile/build/CMakeFiles/CipheFile.dir/src/crypto/CryptoContext.cpp.obj"
+},
+{
+  "directory": "C:/Users/fenix/Desktop/CipheFile/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\Users\\fenix\\Desktop\\CipheFile\\src -external:IC:\\Users\\fenix\\vcpkg\\installed\\x64-windows\\include -external:W0 /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /FoCMakeFiles\\CipheFile.dir\\src\\crypto\\Argon2KDF.cpp.obj /FdCMakeFiles\\CipheFile.dir\\ /FS -c C:\\Users\\fenix\\Desktop\\CipheFile\\src\\crypto\\Argon2KDF.cpp",
+  "file": "C:/Users/fenix/Desktop/CipheFile/src/crypto/Argon2KDF.cpp",
+  "output": "C:/Users/fenix/Desktop/CipheFile/build/CMakeFiles/CipheFile.dir/src/crypto/Argon2KDF.cpp.obj"
+},
+{
+  "directory": "C:/Users/fenix/Desktop/CipheFile/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\Users\\fenix\\Desktop\\CipheFile\\src -external:IC:\\Users\\fenix\\vcpkg\\installed\\x64-windows\\include -external:W0 /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /FoCMakeFiles\\CipheFile.dir\\src\\crypto\\ChaCha20Cipher.cpp.obj /FdCMakeFiles\\CipheFile.dir\\ /FS -c C:\\Users\\fenix\\Desktop\\CipheFile\\src\\crypto\\ChaCha20Cipher.cpp",
+  "file": "C:/Users/fenix/Desktop/CipheFile/src/crypto/ChaCha20Cipher.cpp",
+  "output": "C:/Users/fenix/Desktop/CipheFile/build/CMakeFiles/CipheFile.dir/src/crypto/ChaCha20Cipher.cpp.obj"
 }
 ]

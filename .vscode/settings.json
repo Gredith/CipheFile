@@ -1,0 +1,6 @@
+{
+  "cmake.configureArgs": [
+    "-DCMAKE_TOOLCHAIN_FILE=C:/Users/fenix/vcpkg/scripts/buildsystems/vcpkg.cmake"
+  ],
+  "cmake.generator": "Ninja"
+}

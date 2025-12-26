@@ -1,0 +1,15 @@
+# ninja log v6
+50	1010	7884830881353067	CMakeFiles/CipheFile.dir/src/crypto/CryptoContext.cpp.obj	f348b6e7ff3bfa28
+64	1025	7884830881498212	CMakeFiles/CipheFile.dir/src/crypto/Argon2KDF.cpp.obj	589a5531fe8e61c
+78	1090	7884830881638929	CMakeFiles/CipheFile.dir/src/crypto/ChaCha20Cipher.cpp.obj	edffec9e4a357887
+34	1459	7884830881197413	CMakeFiles/CipheFile.dir/src/core/FileManager.cpp.obj	7391e5b774cc3e5a
+17	1479	7884830881026161	CMakeFiles/CipheFile.dir/src/main.cpp.obj	f6acaae52a6b70e4
+1479	4643	7884830895655543	CipheFile.exe	f9b1806e5a5ac2e6
+18	1099	7884831533041470	CMakeFiles/CipheFile.dir/src/main.cpp.obj	f6acaae52a6b70e4
+1103	2838	7884831543898005	CipheFile.exe	f9b1806e5a5ac2e6
+18	1095	7884832285808986	CMakeFiles/CipheFile.dir/src/main.cpp.obj	f6acaae52a6b70e4
+1096	2917	7884832296592002	CipheFile.exe	f9b1806e5a5ac2e6
+18	1097	7884833343099145	CMakeFiles/CipheFile.dir/src/main.cpp.obj	f6acaae52a6b70e4
+1099	2765	7884833353898872	CipheFile.exe	f9b1806e5a5ac2e6
+20	1108	7884833977159218	CMakeFiles/CipheFile.dir/src/main.cpp.obj	f6acaae52a6b70e4
+1109	2900	7884833988050769	CipheFile.exe	f9b1806e5a5ac2e6

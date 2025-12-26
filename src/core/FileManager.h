@@ -1,5 +1,4 @@
-#ifndef FILEMANAGER_H
-#define FILEMANAGER_H
+#pragma once
 
 #include <string>
 
@@ -9,5 +8,3 @@ public:
   static std::string readTextFile(const std::string &path);
   static void writeTextFile(const std::string &path, const std::string &content);
 };
-
-#endif
