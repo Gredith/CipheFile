@@ -37,6 +37,6 @@ int main()
         cerr << "Crypto test failed: " << ex.what() << '\n';
         return 1;
     }
-
+    
     return 0;
 }
