@@ -1,1 +1,3 @@
-Hola mundo
+Este es un archivo de prueba real.
+Contiene múltiples líneas.
+CipheFile funciona correctamente.
